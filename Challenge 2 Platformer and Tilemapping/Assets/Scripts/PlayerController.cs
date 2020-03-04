@@ -25,8 +25,7 @@ public class PlayerController : MonoBehaviour
     public Text score;
     public Text livesText;
     public Text winText;
-
-    [SerializeField] 
+ 
     public static int scoreValue = 0;
     public int lives = 3;
     
