@@ -1,6 +1,5 @@
 sceneSetups:
-- path: C:/Users/TimxK/Documents/GitHub/Tutorial-2-Platformer-and-Tilemapping/Tutorial
-    2 Platformer and Tilemapping/Assets/Scenes/Scene.unity
+- path: Assets/Scenes/Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
